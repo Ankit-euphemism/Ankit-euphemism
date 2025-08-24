@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ankit!  
-🚀 Student | Full-Stack Web Developer | AI & DSA Explorer  
+🚀 Student |Tech Enthusiast |Full-Stack Web Developer | AI & DSA Explorer  
 
 ## 🌟 About Me  
 - 🎓 B.Tech CSE Student @ BBD University  
