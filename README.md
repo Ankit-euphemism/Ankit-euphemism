@@ -34,7 +34,7 @@ I'm a B.Tech CSE student passionate about building projects that merge creativit
 ---
 
 ## ✨ Fun Fact  
-**I once code with zip of chai and music on. **.  
+**I prefer to code with zip of chai and music on. **.  
 
 ---
 
