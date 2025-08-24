@@ -52,9 +52,10 @@ I once **[code with zip of chai and music on. ]**.
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-k-8639ba28b/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](your-portfolio-link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://my-portfolio-wheat-five-80.vercel.app/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ak8622564@gmail.com)
 
 ---
 
-⭐️ *“Innovate, code, repeat. ”* 
-</> *“Detect, Debug, Deploy- Done . ”*
+⭐️ *“Innovate, code, repeat. ”* <br>
+<b></></b> *“Detect, Debug, Deploy- Done . ”*
