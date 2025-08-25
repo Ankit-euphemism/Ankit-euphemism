@@ -45,8 +45,8 @@ I'm a B.Tech CSE student passionate about building projects that merge creativit
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-euphemism&theme=radical" alt="GitHub Streak" height="180"/>
-</p>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-euphemism&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</p> 
 
 ---
 
