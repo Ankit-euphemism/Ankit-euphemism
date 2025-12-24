@@ -27,8 +27,8 @@ I'm a B.Tech CSE student passionate about building projects that merge creativit
 ---
 
 ## 🎯 Current Focus  
-- Cracking a **Web Development Internship** within the next 1–2 months.  
-- Building strong foundations in **MERN stack + DSA (C++/Java)**.  
+- Upgrading myself, explore new technology and opportunities.
+- Building strong foundations in **MERN stack + DSA (Java)**.  
 - Exploring **AI projects with Python**.  
 
 ---
