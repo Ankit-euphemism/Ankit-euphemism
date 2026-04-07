@@ -42,10 +42,9 @@ I'm a B.Tech CSE student passionate about building projects that merge creativit
 ## 📊 GitHub Stats  
 
 <p align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit-euphemism&show_icons=true&theme=radical" alt="Ankit's GitHub stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-euphemism&layout=compact&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-euphemism&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ankit-euphemism&show_icons=true&theme=radical" alt="Ankit's GitHub stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-euphemism&layout=compact&theme=radical" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankit-euphemism&theme=radical&hide_border=true&border_radius=10" alt="GitHub Streak" />
  
 </p>  
 
