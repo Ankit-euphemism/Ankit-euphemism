@@ -1,6 +1,6 @@
 # Hi, I'm Ankit 👋  
 
-🚀 **Aspiring Full-Stack Developer | AI Explorer | DSA Enthusiast**  
+🚀 **Aspiring Software Engineer | AI Explorer | Full-Stack Developer**  
 
 I'm a B.Tech CSE student passionate about building projects that merge creativity with code. My journey revolves around mastering the **MERN stack**, sharpening my **DSA problem-solving skills (Java)**, and diving deep into the world of **AI with Python**. Always curious, always learning, always building.  
 
