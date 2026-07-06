@@ -29,7 +29,7 @@ I'm a B.Tech CSE student passionate about building projects that merge creativit
 
 ## 🎯 Current Focus  
 - Upgrading myself, exploring new technology and opportunities.
-- Building strong foundations in **MERN stack + DSA (Java)**.  
+- Building strong foundations in **Full-Stack + DSA (Java)**.  
 - Exploring **AI projects with Python**.  
 
 ---
