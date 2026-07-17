@@ -24,4 +24,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
+          ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION: true
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
