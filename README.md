@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Ankit%20%F0%9F%91%8B&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Code%20%E2%9A%A1%20Cloud%20%E2%9A%A1%20AI%20%E2%80%94%20where%20curiosity%20meets%20craft&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6AD4FB&center=true&vCenter=true&random=false&width=650&lines=Final+Year+BTech+CSE+%7C+Cloud+%26+ML+Spec;Full-Stack+Dev+%7C+MERN+%2B+Next.js+Builder;AI+Systems+%7C+RAG+%7C+LangChain+%7C+PyTorch;DSA+Grinder+%7C+Java+%7C%2B+LeetCode;Placement-Ready+SWE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6AD4FB&center=true&vCenter=true&random=false&width=650&lines=Final+Year+BTech+CSE+%7C+Cloud+%26+ML+Spec;Full-Stack+Dev+%7C+MERN+%2B+Django/Flask+Builder;AI+Systems+%7C+RAG+%7C+VectorDB+%7C+PyTorch;DSA+Grinder+%7C+Java+%7C+LeetCode;Placement-Ready+%7C+SWE+%7C+SDE)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,10 +26,10 @@
   "degree"      : "B.Tech CSE — Final Year",
   "spec"        : ["Cloud Computing", "Machine Learning"],
   "focus"       : "SWE / SDE / MLE Placements",
-  "stack"       : "MERN + Next.js + Python AI",
-  "dsa"         : "Java + LeetCode",
-  "ai_stack"    : ["RAG", "XGBoost", "PyTorch", "OpenAI"],
-  "cloud"       : "AWS (in progress),Azure",
+  "stack"       : "MERN + Django/Flask + Python AI",
+  "dsa"         : "Java + LeetCode + GFG",
+  "ai_stack"    : ["RAG", "XGBoost", "PyTorch", "Hugging Face", "Hugging Face"],
+  "cloud"       : "AWS, Azure(in progress)",
   "creative"    : ["Blender 3D", "Unreal Engine 5", "AI Animation Pipelines"],
   "vibe"        : "chai ☕ + music 🎧 + terminal 💻",
   "status"      : "actively building & grinding 🔥"
@@ -58,6 +58,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white)
 
 <!-- BACKEND -->
 ### ⚙️ Backend & APIs
@@ -67,6 +68,10 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![FASTAPI](https://img.shields.io/badge/FASTAPI-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Multer](https://img.shields.io/badge/Multer-5A29E4?style=for-the-badge&logo=multer&logoColor=white)
 
 <!-- DATABASES -->
 ### 🗄️ Databases
@@ -74,23 +79,26 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-47A248?style=for-the-badge&logo=SQLite&logoColor=white)
 
 <!-- AI / ML -->
-### 🤖 AI / ML / Data Science
+### 🤖 AI / ML 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<!-- ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) -->
+![Hugging Face](https://img.shields.io/badge/HuggingFace-F7931E?style=for-the-badge&logo=huggingface&logoColor=white)
+![OpenRouter](https://img.shields.io/badge/OpenRouter-412991?style=for-the-badge&logo=openrouter&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-FF6B6B?style=for-the-badge&logoColor=white)
 
 <!-- CLOUD & DEVOPS -->
 ### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-232F3E?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -98,10 +106,10 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <!-- CREATIVE -->
-### 🎨 Creative Stack
+<!--### 🎨 Creative Stack
 
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-313131?style=for-the-badge&logo=unrealengine&logoColor=white)-->
 
 ---
 
@@ -109,23 +117,23 @@
 
 | Project | Stack | What it does | Status |
 |---------|-------|-------------|--------|
-| **DevNotes** | Next.js App Router + MongoDB | Full-stack developer notes app | 🟡 Building |
-| **AI RAG Pipeline** | LangChain + pgvector + OpenAI | Document Q&A with semantic search | 🟡 Building |
+| **AI RAG Pipeline** | Hugging Face + FAISS + OpenRouter | Document Q&A with semantic search | ✅ Done |
 | **DSA Tracker** | React + localStorage | Interactive 12-week placement prep tracker | ✅ Live |
 | **JWT Auth System** | Node.js + MongoDB + Axios | Access / refresh token rotation w/ interceptors | ✅ Done |
-| **AI Animation Pipeline** | Blender + Python | AI-powered 3D storyboarding pipeline | 🔬 Experimental |
+<!--| **AI Animation Pipeline** | Blender + Python | AI-powered 3D storyboarding pipeline | 🔬 Experimental | -->
+<!--| **DevNotes** | Next.js App Router + MongoDB | Full-stack developer notes app | 🟡 Building |-->
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ankit-euphemism&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="170" alt="Ankit's GitHub Stats"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit-euphemism&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" alt="Top Languages"/>
 
-</div>
+</div> -->
 
 <div align="center">
 
@@ -133,15 +141,15 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Ankit-euphemism&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/Ankit-euphemism)
 
-</div>
+</div> -->
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -197,38 +205,40 @@ jobs:
 ## 🗺️ My Journey
 
 ```
-2021 ──▶  Started B.Tech CSE
+2023 ──▶  Started B.Tech CSE
           └─ C++ foundations | OOP | Problem-solving mindset
 
-2022 ──▶  Web Dev Begins
+2024 ──▶  Web Dev Begins
           └─ HTML · CSS · JS · PHP · MySQL | First real projects
 
-2023 ──▶  MERN Stack Unlocked
+2025 ──▶  MERN Stack Unlocked
           └─ React · Node.js · Express · MongoDB | REST APIs | Git mastery
 
-2024 ──▶  AI/ML & Advanced Systems
-          └─ Python · LangChain · RAG Pipelines · pgvector · ChromaDB
-          └─ PyTorch (CUDA) · XGBoost · scikit-learn · Pandas
+2026 ──▶  AI/ML & Advanced Systems
+          └─ Python · Hugging Face · RAG Pipelines · pgvector · FAiSS
+          └─ PyTorch (CUDA) · XGBoost · scikit-learn · Pandas · Numpy
           └─ Next.js App Router · JWT Auth (refresh token rotation)
           └─ Blender 3D · Unreal Engine 5 · AI Animation Systems
           └─ Claude AI · MCP · Semantic Embeddings
 
-2025 ──▶  Final Year | Placement Mode 🎯
-          └─ DSA Grind: Striver A2Z + LeetCode + NeetCode 150 (Java)
+2027 ──▶  Final Year | Placement Mode 🎯
+          └─ DSA Grind: Java + LeetCode + GFG
           └─ Cloud: AWS · Docker · DevOps fundamentals
-          └─ Data Science & AI track | Full-stack portfolio polish
-          └─ TARGET: SWE / SDE / MLE role → Aug–Sep Campus Drive
+          └─ ML & AI track | Full-stack portfolio polish
+          └─ TARGET: SWE / SDE / MLE role
 ```
 
 ---
 
+-->
+
 ## 🎯 Current Focus
 
-- 🔥 **DSA (Java)** — 3–4 month roadmap on Striver's A2Z Sheet + NeetCode 150
+- 🔥 **DSA (Java)** — LeetCode + GFG + Practice
 - 🌐 **Next.js** — App Router, Server Actions, full-stack projects
 - ☁️ **AWS** — Compute, Storage, Serverless — hands-on labs
-- 🤖 **Data Science & AI** — XGBoost, RAG pipelines, LangChain agents
-- 🎯 **Placement Prep** — Resume, GitHub, projects — placement-ready by August
+- 🤖 **AI & ML** — XGBoost, RAG pipelines, Gen AI, Hugging Face
+- 🎯 **Placement Prep** — Resume, GitHub, projects
 
 ---
 
