@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hey%2C%20I'm%20Ankit%20%F0%9F%91%8B&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Code%20%E2%9A%A1%20Cloud%20%E2%9A%A1%20AI%20%E2%80%94%20where%20curiosity%20meets%20craft&descAlignY=58&descSize=18" width="100%"/>
 
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6AD4FB&center=true&vCenter=true&random=false&width=650&lines=Final+Year+BTech+CSE+%7C+Cloud+%26+ML+Spec;Full-Stack+Dev+%7C+MERN+%2B+Next.js+Builder;AI+Systems+%7C+RAG+%7C+LangChain+%7C+PyTorch;DSA+Grinder+%7C+Java+%7C+Striver+A2Z+%2B+LeetCode;Placement-Ready+SWE+%7C+Aug%E2%80%93Sep+2025+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=6AD4FB&center=true&vCenter=true&random=false&width=650&lines=Final+Year+BTech+CSE+%7C+Cloud+%26+ML+Spec;Full-Stack+Dev+%7C+MERN+%2B+Next.js+Builder;AI+Systems+%7C+RAG+%7C+LangChain+%7C+PyTorch;DSA+Grinder+%7C+Java+%7C+%2B+LeetCode;Placement-Ready+SWE)](https://git.io/typing-svg)
 
 <br/>
 
@@ -25,11 +25,11 @@
   "name"        : "Ankit",
   "degree"      : "B.Tech CSE — Final Year",
   "spec"        : ["Cloud Computing", "Machine Learning"],
-  "focus"       : "SWE / SDE / MLE Placements → Aug–Sep 2025",
+  "focus"       : "SWE / SDE / MLE Placements",
   "stack"       : "MERN + Next.js + Python AI",
-  "dsa"         : "Striver A2Z (Java) + LeetCode + NeetCode 150",
-  "ai_stack"    : ["LangChain", "RAG", "XGBoost", "PyTorch", "OpenAI"],
-  "cloud"       : "AWS (in progress)",
+  "dsa"         : "Java + LeetCode",
+  "ai_stack"    : ["RAG", "XGBoost", "PyTorch", "OpenAI"],
+  "cloud"       : "AWS (in progress),Azure",
   "creative"    : ["Blender 3D", "Unreal Engine 5", "AI Animation Pipelines"],
   "vibe"        : "chai ☕ + music 🎧 + terminal 💻",
   "status"      : "actively building & grinding 🔥"
