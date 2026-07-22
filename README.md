@@ -72,7 +72,7 @@
 ![FASTAPI](https://img.shields.io/badge/FASTAPI-FF6C37?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-339933?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Multer](https://img.shields.io/badge/Multer-5A29E4?style=for-the-badge&logo=multer&logoColor=white)
+![Multer](https://img.shields.io/badge/multer-5A29E4?style=for-the-badge&logo=multer&logoColor=white)
 
 <!-- DATABASES -->
 ### 🗄️ Databases
